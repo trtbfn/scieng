@@ -1,6 +1,6 @@
 # Science Papers Semantic Search
 
-1. You should run docker conatiner with Groubid. Instruction: https://grobid.readthedocs.io/en/latest/Grobid-docker/
+1. You should run docker container with Groubid. Instruction: https://grobid.readthedocs.io/en/latest/Grobid-docker/
 
 ```bash
 docker pull lfoppiano/grobid:0.8.0
