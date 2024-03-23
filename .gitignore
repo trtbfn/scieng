@@ -1,0 +1,6 @@
+/env
+/__pycache__
+/grobid_client_python
+/other
+/papers
+/sentence_embeddings
